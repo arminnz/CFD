@@ -48,3 +48,5 @@ Followin drawing a free body diagram with all the forces that are resulted from 
 *equation 2.13*
 
 This is test
+
+This is Foruz: prova 1
